@@ -1,5 +1,5 @@
 {
-    "full_name": "Test Device",
+    "fullname": "Test Device",
     "codename": "TESTDEV123",
     "resources": {
         "recovery": {
