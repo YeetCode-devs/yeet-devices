@@ -3,27 +3,57 @@
     "codename": "TESTDEV123",
     "resources": {
         "recovery": {
-            "offical": {
-                "TWRP": "https://google.com",
-                "PBRP": "https://google.com"        
+            "official": {
+                "TWRP": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                },
+                "PBRP": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                }        
             },
-            "unoffical": {
-                "OFOX": "https://google.com",
-                "SHRP": "https://google.com"        
+            "unofficial": {
+                "OFOX": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                },
+                "SHRP": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                }        
             }
         },
         "kernel": {
-            "BB_KERNEL": "https://google.com",
-            "PERF_KERNEL": "https://google.com",
-            "BALANCED_KERNEL": "https://google.com"
+            "BB_KERNEL": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                },
+            "PERF_KERNEL": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                },
+            "BALANCED_KERNEL": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                }
         },
         "rom": {
-            "offical": {
-                "LINEAGE_OS": "https://google.com",
-                "PIXEL_EXPERIENCE": "https://google.com"        
+            "official": {
+                "LINEAGE_OS": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                },
+                "PIXEL_EXPERIENCE": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                }        
             },
             "unoffical": {
-                "ARROW_OS": "https://google.com"
+                "ARROW_OS": { 
+                    "download_link": "https://google.com",
+                    "maintainer": "Xyz Dev"
+                }
             }
         },
         "extraresource1": {
