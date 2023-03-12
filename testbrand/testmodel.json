@@ -3,20 +3,34 @@
     "codename": "TESTDEV123",
     "resources": {
         "recovery": {
-            "PBRP": "https://google.com",
-            "TWRP": "https://google.com",
-            "OFOX": "https://google.com"
+            "offical": {
+                "TWRP": "https://google.com",
+                "PBRP": "https://google.com"        
+            },
+            "unoffical": {
+                "OFOX": "https://google.com",
+                "SHRP": "https://google.com"        
+            }
         },
         "kernel": {
-            "BBKERNEL": "https://google.com",
-            "PERFKERNEL": "https://google.com",
-            "BALANCEDKERNEL": "https://google.com"
+            "BB_KERNEL": "https://google.com",
+            "PERF_KERNEL": "https://google.com",
+            "BALANCED_KERNEL": "https://google.com"
+        },
+        "rom": {
+            "offical": {
+                "LINEAGE_OS": "https://google.com",
+                "PIXEL_EXPERIENCE": "https://google.com"        
+            },
+            "unoffical": {
+                "ARROW_OS": "https://google.com"
+            }
         },
         "extraresource1": {
-            "UNLOCKSCRIPT": "https://google.com"
+            "UNLOCK_SCRIPT": "https://google.com"
         },
         "extraresource2": {
-            "BOOTLOADERUNLOCKGUIDE": "https://google.com"
+            "BOOTLOADER_UNLOCK_GUIDE": "https://google.com"
         }
     }
 }
