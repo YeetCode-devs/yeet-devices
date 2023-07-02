@@ -1,0 +1,22 @@
+{
+    "fullname": "Test Device",
+    "codename": "TESTDEV123",
+    "resources": {
+        "recovery": {
+            "PBRP": "https://google.com",
+            "TWRP": "https://google.com",
+            "OFOX": "https://google.com"
+        },
+        "kernel": {
+            "BBKERNEL": "https://google.com",
+            "PERFKERNEL": "https://google.com",
+            "BALANCEDKERNEL": "https://google.com"
+        },
+        "extraresource1": {
+            "UNLOCKSCRIPT": "https://google.com"
+        },
+        "extraresource2": {
+            "BOOTLOADERUNLOCKGUIDE": "https://google.com"
+        }
+    }
+}
